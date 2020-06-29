@@ -12,7 +12,7 @@ PyCharm 2020 and Cuda Toolkit 10
 | OS  |Windows 10 64-bit |
 
 ## Results
-Image 602x401
+Image 602x401px
 | CPU  | GPU |
 | ------------- | ------------- |
 | 72 600 ms | 35.4 ms |
