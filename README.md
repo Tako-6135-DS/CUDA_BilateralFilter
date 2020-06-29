@@ -1,4 +1,4 @@
-## PyCUDA bilateral filter
+## CUDA bilateral filter
 Bilateral Filter - Comparison of the speed of bilateral filtering on the CPU and GPU.
 Image size is MxN
 PyCharm 2020 and Cuda Toolkit 10
